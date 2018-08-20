@@ -2,8 +2,6 @@
 
 [![N|Solid](https://ph-files.imgix.net/db1cb833-705d-4016-bb24-90ae15f4b4bd?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop)](https://ph-files.imgix.net/db1cb833-705d-4016-bb24-90ae15f4b4bd?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop)
 
-
-![Alt Text](https://media.giphy.com/media/cO95ARkJ4kF0azH5V1/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/58FXRZRRg5VEbcrElW/giphy.gif)
 
 Desktop aplikacija za glazbu i dodavanje Artista u bazu, CRUD-forma, offline spremanje u direktorij, za razvoj korišten Netbeans.
@@ -35,6 +33,9 @@ Aplikacije je trenutno proširena sljedećim plugin-ovima. Upute o korištenju u
 ### Development
 
 Aplikacija koristi Netbeans za brzi razvoj.
+
+![Alt Text](https://media.giphy.com/media/1rL6zmviXxHkaGjQ9s/giphy.gif)
+
 
 
 ### Napraviti
