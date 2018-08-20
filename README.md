@@ -4,7 +4,7 @@
 
 
 ![Alt Text](https://media.giphy.com/media/cO95ARkJ4kF0azH5V1/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/58FXRZRRg5VEbcrElW/giphy.gif)
 
 Desktop aplikacija za glazbu i dodavanje Artista u bazu, CRUD-forma, offline spremanje u direktorij, za razvoj korišten Netbeans.
 
